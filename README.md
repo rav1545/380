@@ -1,2 +1,2 @@
-# Runtime-Terror
+# RuntimeTerror
 COMP 380L Group Project
